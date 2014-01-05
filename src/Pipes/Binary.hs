@@ -5,6 +5,7 @@
 -}
 
 {-# LANGUAGE DeriveDataTypeable #-}
+{-# LANGUAGE RankNTypes         #-}
 
 module Pipes.Binary (
     -- * Encoders and Decoders
